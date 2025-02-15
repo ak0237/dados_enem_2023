@@ -8,8 +8,14 @@ Este repositório tem como objetivo analisar o perfil dos estudantes que realiza
 
 ## O que já foi feito
 
-- Coleta e limpeza inicial dos dados.
-- Exploração preliminar das variáveis principais.
+- ✅ Coleta e limpeza inicial dos dados.
+- ✅ Exploração preliminar das variáveis principais.
+- ✅ Identificação da nota máxima de cada grupo de nacionalidade para cada língua.
+- ✅ Análise das informações gerais dos estudantes com a maior nota na área de linguagens para cada língua.
+- ✅ Cálculo da média das notas na área de linguagens, por tipo de língua e nacionalidade.
+- ✅ Cálculo da proporção de cada sexo por língua.
+- ✅ Cálculo da proporção de cada tipo de escola por língua.
+- ✅ Cálculo da média das notas de cada língua por sexo.
 
 ## O que ainda falta
 
@@ -22,4 +28,6 @@ Este repositório tem como objetivo analisar o perfil dos estudantes que realiza
 Se tiver sugestões ou quiser colaborar, fique à vontade para abrir uma issue ou fazer um pull request! 😊
 
 ---
+
 ✍️ *Este documento será atualizado conforme avançamos na análise.*
+
