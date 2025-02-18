@@ -17,6 +17,9 @@ Este repositório tem como objetivo analisar o perfil dos estudantes que realiza
 - ✅ Cálculo da proporção de cada tipo de escola por língua.
 - ✅ Cálculo da média das notas de cada língua por sexo.
 
+## O que está em andamento
+🛠 Aplicação do teste t para verificar se a diferença entre as médias é estatisticamente significativa.
+
 ## O que ainda falta
 
 - Análise aprofundada das correlações entre variáveis.
